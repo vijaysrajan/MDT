@@ -1,0 +1,14 @@
+[project]
+name = "mdt"
+version = "0.1.0"
+description = "Metric Decomposition Tree"
+readme = "README.md"
+authors = [
+    { name = "Vijay S. Rajan" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[build-system]
+requires = ["uv_build>=0.9.30,<0.10.0"]
+build-backend = "uv_build"
